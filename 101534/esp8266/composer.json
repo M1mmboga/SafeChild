@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twilio/sdk": "^6.16"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}

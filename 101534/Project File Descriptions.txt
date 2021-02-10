@@ -1,0 +1,5 @@
+esp8266 is the php code to upload sensor data to the database.
+safechild is the laravel web application: users and admin dashboard.
+autismlocation is the arduino file to read sensor values.
+autisticchild is the mysql database sql file.
+users is the powerbi file for perfomin visualisations.
